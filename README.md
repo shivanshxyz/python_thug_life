@@ -2,5 +2,6 @@
 thug life face masking on live camera feed using opencv
 
 
-##OUTPUT -
+## OUTPUT -
+
 ![picture](sample.png)
